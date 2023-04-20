@@ -3,7 +3,9 @@ body {
     font-family: 'Cairo', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 .dots {
     background-image: url(../img/avatar-01.png );
     height: 280px;
